@@ -1,0 +1,297 @@
+----- PAGE 1 -----
+Design
+AERO SURFACES
+Airstrike
+Stellar White
+SHADOW
+Cosmic Black
+LASER
+LASER
+Afterburner Yellow
+Turbo Red
+SPEC SHEET
+MAX SPEED
+155 km/h
+Peak Power
+30 kW
+100 Nm
+Peak MOTOR TORQUE
+range (IDC)
+323 km
+DESIGN SERIES
+F series - 
+Jet Inspired
+STANCE
+Dynamic, 
+STREET-ORIENTED
+CONSOLE THEMES
+Parallax & 
+Radar
+
+
+----- PAGE 2 -----
+Peak Power
+PERFORMANCE
+27 kW (36.2 hp)
+30 kW (40.2 hp)
+Peak Torque
+90 Nm
+100 Nm
+MAX SPEED
+155 km/h
+155 km/h
+Acceleration (0-60 kmph)
+2.9 sec
+2.8 sec
+Acceleration (0-100 kmph)
+7.8 sec
+7.7 sec
+Levels of REGENERATIVE BRAKING
+DYNAMIC REGENERATIVE BRAKING
+3 levels included
+10 levels optional
+Included
+10 levels
+Included
+RIDE MODES
+Glide, Combat, Ballistic
+Glide, Combat, Ballistic
+RANGE ESTIMATES
+Range (IDC est.)
+211 km
+323 km
+Range Glide (avg. 40 Wh/km)
+183 km
+266 km
+Range Combat (avg. 52 Wh/km)
+144 km
+209 km
+Range Ballistic (avg. 60 Wh/km)
+128 km
+186 km
+Smart Tech
+Control Center
+VIOLETTE A.I.
+DELTA WATCH
+Lockdown
+Crash AlerT
+Anti-Collision Warning System
+DAILY RIDE ANALYTICS
+Operating System
+Multi-function 5" TFT display with 
+tactile input switch console (L+R)
+Optional
+Optional
+Optional
+Optional
+Optional
+UV Automotive Linux OS
+Optional
+Multi-function 5" TFT display with 
+tactile input switch console (L+R)
+Optional
+Optional
+Optional
+Optional
+UV Automotive Linux OS
+Optional
+Optional
+SPEC SHEET
+SUPERSTREET recon
+SUPERSTREET
+
+
+----- PAGE 3 -----
+UTILITY
+SAFETY
+CHARGE LIMIT
+PARK ASSIST
+FIND MY F77
+DEEP SLEEP
+TRACTION CONTROL
+HILL HOLD
+ABS
+D.S.C - Dynamic stability control
+Included
+Included
+Included
+Included
+Optional
+Included
+Included
+Included
+Mono & Dual channel
+Included
+Included
+Included
+4 levels
+Included
+Mono & Dual channel
+Included
+Auto dimming LED Headlight with 
+Ultra-V position lamp 
+Dual LED tail light assembly with 
+central brake light
+Front and Rear LED Hazard Lights
+Sidestand Sensor
+
+Auto dimming LED Headlight with 
+Ultra-V position lamp 
+Dual LED tail light assembly with 
+central brake light
+Front and Rear LED Hazard Lights
+Sidestand Sensor
+
+TPMS
+Optional
+Optional
+Battery System
+Battery Pack
+Energy Capacity
+BMS & Safety protocols
+Enclosure
+SRB7
+7.1 kWh
+Battery Management System with 
+Patented 5-level Safety System - 
+Mechanical, Thermal, Electrical, 
+Electronic & Software Protection
+All-Aluminum IP67-rated Enclosure
+SRB10
+10.3 kWh
+Battery Management System with 
+Patented 5-level Safety System - 
+Mechanical, Thermal, Electrical, 
+Electronic & Software Protection
+All-Aluminum IP67-rated Enclosure
+SUPERSTREET recon
+SUPERSTREET
+SPEC SHEET
+
+
+----- PAGE 4 -----
+Vehicle Warranty
+Standard 
+Charger
+Charge Rate
+Up to 35 km of range per hour of 
+charge
+20% - 80% in 3 hrs
+20% - 80% in 1.5 hrs
+20% - 80% in 5 hrs
+20% - 80% in 2.5 hrs
+Up to 35 km of range per hour of 
+charge
+Included
+Included
+BOOST Charger
+Charge Rate
+Up to 75 km of range per hour of 
+charge
+Up to 75 km of range per hour of 
+charge
+Optional
+Optional
+Charging
+Charging Port
+IEC 62196-6
+Optional
+IEC 62196-6
+Optional
+UV SUPERNOVA PLUS
+(12Kw DC FAST CHARGING NETWORK)
+UVLYNC INTERFACE
+(COMPATIBLE WITH TYPE 2 AC CAR CHARGING 
+NETWORK)
+Compatible
+20% - 80% in 45 min
+Compatible
+20% - 80% in 60 min
+Standard Warranty (Vehicle)
+3 years or 30,000km*
+3 years or 30,000km*
+--
+Battery & 
+Drivetrain Warranty
+UV Care
+UV Care PLUS
+UV Care Max
+3 years or 60,000 km included
+5 years or 1,00,000 km optional
+N/A
+5 years or 1,00,000 km included
+8 years or 8,00,000 km optional
+Drivetrain
+Motor
+Permanent Magnet AC Motor
+Permanent Magnet AC Motor
+Throttle Control
+Ride-by-wire
+Ride-by-wire
+SPEC SHEET
+SUPERSTREET recon
+SUPERSTREET
+
+
+----- PAGE 5 -----
+MechanicaL
+Frame
+Steel Trellis with Aluminium Bulk Head
+Steel Trellis with Aluminium Bulk Head
+Front Suspension
+Upside-down Telescopic fork with a 
+diameter of 41 mm. Preload adjustable
+Upside-down Telescopic fork with a 
+diameter of 41 mm. Preload adjustable
+Rear Suspension
+Monoshock - preload adjustable
+Monoshock - preload adjustable
+Brake System
+Hydraulic disc brakes with dual-
+channel BOSCH ABS
+Hydraulic disc brakes with dual-
+channel BOSCH ABS
+Brake Calipers
+Front: Fixed 4-Radial Piston Type
+Rear: Single Piston Floating Caliper Type
+Rear: Single Piston Floating Caliper Type
+Front: Fixed 4-Radial Piston Type 
+Brake Rotor
+Front: 320mm disc Rear: 230mm disc
+Front: 320mm disc Rear: 230mm disc
+Tyres
+Front: 110/70 R17 Rear: 150/60 R17
+Front: 110/70 R17 Rear: 150/60 R17
+Connectivity
+Network
+LTE connectivity with integrated eSIM
+LTE connectivity with integrated eSIM
+WLAN
+Supports 802.11a/b/g/n/ac Wi-Fi 
+standards
+Supports 802.11a/b/g/n/ac Wi-Fi 
+standards
+Bluetooth
+Supports Bluetooth 5, Bluetooth low 
+energy
+Supports Bluetooth 5, Bluetooth low 
+energy
+Positioning
+GPS/GLONASS
+GPS/GLONASS
+DIMENSIONs
+Wheel Base
+Seat Height
+Kerb Weight
+Ground Clearance
+1340 mm
+800 mm
+197 kg
+160 mm
+1340 mm
+800 mm
+207 kg
+160 mm
+SPEC SHEET
+SUPERSTREET recon
+SUPERSTREET

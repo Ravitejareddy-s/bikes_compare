@@ -1,0 +1,303 @@
+----- PAGE 1 -----
+SPEC SHEET SP
+30 kW
+Peak Power
+155 km/h
+MAX SPEED
+2.8 sec
+0-60 KM/H
+100 Nm
+Peak MOTOR TORQUE
+323 km
+range (IDC)
+Design
+AERO SURFACES
+LASER
+Turbo Red
+SHADOW
+Stealth Grey
+Airstrike
+Supersonic Silver
+F series - 
+Jet Inspired
+DESIGN SERIES
+Stellar White
+Dynamic, 
+Race-bred
+STANCE
+Parallax & 
+Radar
+CONSOLE THEMES
+Afterburner Yellow
+Cosmic Black
+
+
+----- PAGE 2 -----
+MACH 2
+SPEC SHEET
+MACH 2 recon
+SP
+PERFORMANCE
+Peak Power
+27 kW (36.2 hp)
+Peak Torque
+90 Nm
+MAX SPEED
+155 km/h
+Acceleration (0-60 kmph)
+2.9 sec
+Acceleration (0-100 kmph)
+7.8 sec
+DYNAMIC REGENERATIVE BRAKING
+Included
+Levels of REGENERATIVE BRAKING
+3 levels included
+10 levels optional
+RIDE MODES
+Glide, Combat, Ballistic
+RANGE ESTIMATES
+Range (IDC est.)
+211 km
+Range Glide (avg. 40 Wh/km)
+183 km
+Range Combat (avg. 52 Wh/km)
+144 km
+Range Ballistic (avg. 60 Wh/km)
+128 km
+Smart Tech
+VIOLETTE A.1.
+Optional
+DELTA WATCH
+Optional
+Lockdown
+Optional
+Anti-Collision Warning System
+Optional
+Crash AlerT
+Optional
+DAILY RIDE ANALYTICS
+Optional
+Control Center
+Multi-function 5" TFT display with 
+tactile input switch console (L+R)
+Operating System
+UV Automotive Linux OS
+30 kW (40.2 hp)
+100 Nm
+155 km/h
+2.8 sec
+7.7 sec
+Included
+10 levels
+Glide, Combat, Ballistic
+323 km
+266 km
+209 km
+186 km
+Optional
+Optional
+Optional
+Optional
+Optional
+Optional
+Multi-function 5" TFT display with 
+tactile input switch console (L+R)
+UV Automotive Linux OS
+
+
+----- PAGE 3 -----
+MACH 2
+TRACTION CONTROL
+SAFETY
+Auto dimming LED Headlight with 
+Ultra-V position lamp 
+Dual LED tail light assembly with 
+central brake light
+Front and Rear LED Hazard Lights
+Sidestand Sensor
+
+Optional
+HILL HOLD
+Included
+ABS
+Mono & Dual channel
+D.S.C - Dynamic stability control
+Included
+UTILITY
+CHARGE LIMIT
+Included
+PARK ASSIST
+Included
+FIND MY F77
+Included
+DEEP SLEEP
+Included
+TPMS
+Optional
+Battery System
+Battery Pack
+SRB7
+Energy Capacity
+7.1 kWh
+BMS & Safety protocols
+Enclosure
+Battery Management System with 
+Patented 5-level Safety System - 
+Mechanical, Thermal, Electrical, 
+Electronic & Software Protection
+All-Aluminum IP67-rated Enclosure
+SPEC SHEET SP
+MACH 2 recon
+Auto dimming LED Headlight with 
+Ultra-V position lamp 
+Dual LED tail light assembly with 
+central brake light
+Front and Rear LED Hazard Lights
+Sidestand Sensor
+
+4 levels
+Included
+Mono & Dual channel
+Included
+Included
+Included
+Included
+Included
+Optional
+SRB10
+10.3 kWh
+Battery Management System with 
+Patented 5-level Safety System - 
+Mechanical, Thermal, Electrical, 
+Electronic & Software Protection
+All-Aluminum IP67-rated Enclosure
+
+
+----- PAGE 4 -----
+MACH 2
+Battery & 
+Drivetrain Warranty
+UV Care
+3 years or 60,000 km included
+--
+UV Care PLUS
+5 years or 1,00,000 km optional
+5 years or 1,00,000 km included
+UV Care Max
+N/A
+8 years or 8,00,000 km optional
+Vehicle Warranty
+Standard Warranty (Vehicle)
+3 years or 30,000km*
+3 years or 30,000km*
+Charging
+Charging Port
+IEC 62196-6
+UV SUPERNOVA PLUS
+(12Kw DC FAST CHARGING NETWORK)
+Compatible
+20% - 80% in 45 min
+UVLYNC INTERFACE
+(COMPATIBLE WITH TYPE 2 AC CAR CHARGING 
+NETWORK)
+Optional
+Standard 
+Charger
+Included
+Charge Rate
+Up to 35 km of range per hour of 
+charge
+20% - 80% in 3 hrs
+Up to 75 km of range per hour of 
+charge
+20% - 80% in 1.5 hrs
+Drivetrain
+Motor
+Permanent Magnet AC Motor
+Throttle Control
+Ride-by-wire
+BOOST Charger
+Optional
+Charge Rate
+IEC 62196-6
+Compatible
+20% - 80% in 60 min
+Optional
+Included
+Up to 35 km of range per hour of 
+charge
+20% - 80% in 5 hrs
+Optional
+Up to 75 km of range per hour of 
+charge
+20% - 80% in 2.5 hrs
+Permanent Magnet AC Motor
+Ride-by-wire
+SPEC SHEET
+MACH 2 recon
+SP
+
+
+----- PAGE 5 -----
+MACH 2
+SPEC SHEET
+MACH 2 recon
+SP
+MechanicaL
+Frame
+Steel Trellis with Aluminium Bulk Head
+Steel Trellis with Aluminium Bulk Head
+Front Suspension
+Upside-down Telescopic fork with a 
+diameter of 41 mm. Preload adjustable
+Upside-down Telescopic fork with a 
+diameter of 41 mm. Preload adjustable
+Rear Suspension
+Monoshock - preload adjustable
+Monoshock - preload adjustable
+Brake System
+Hydraulic disc brakes with dual-
+channel BOSCH ABS
+Hydraulic disc brakes with dual-
+channel BOSCH ABS
+Brake Calipers
+Front: Fixed 4-Radial Piston Type
+Rear: Single Piston Floating Caliper Type
+Front: Fixed 4-Radial Piston Type 
+Rear: Single Piston Floating Caliper Type
+Brake Rotor
+Front: 320mm disc Rear: 230mm disc
+Front: 320mm disc Rear: 230mm disc
+Tyres
+Front: 110/70 R17 Rear: 150/60 R17
+Front: 110/70 R17 Rear: 150/60 R17
+Connectivity
+Network
+WLAN
+LTE connectivity with integrated eSIM
+Supports 802.11a/b/g/n/ac Wi-Fi 
+standards
+Bluetooth
+Supports Bluetooth 5, Bluetooth low 
+energy
+Positioning
+GPS/GLONASS
+DIMENSIONs
+Wheel Base
+1340 mm
+Seat Height
+800 mm
+Kerb Weight
+197 kg
+Ground Clearance
+160 mm
+LTE connectivity with integrated eSIM
+Supports 802.11a/b/g/n/ac Wi-Fi 
+standards
+Supports Bluetooth 5, Bluetooth low 
+energy
+GPS/GLONASS
+1340 mm
+800 mm
+207 kg
+160 mm

@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "brand": "Ultraviolette",
+    "source": "Official spec sheets (F77 Mach 2, F77 Superstreet, X-47)",
+    "note": "Each bike offers a base (7.1 kWh / SRB7) and a top (10.3 kWh / SRB10) battery variant. Headline figures use the top variant unless stated. Values shown as {base / top} where they differ.",
+    "variant_labels": {
+      "mach2": "SP (7.1 kWh) / recon (10.3 kWh)",
+      "superstreet": "Superstreet (7.1 kWh) / Superstreet recon (10.3 kWh)",
+      "x47": "original (7.1 kWh) / recon (10.3 kWh)"
+    }
+  },
+  "bikes": [
+    {
+      "id": "mach2",
+      "name": "F77 MACH 2",
+      "tagline": "Race-bred flagship sport",
+      "series": "F series - Jet Inspired",
+      "stance": "Dynamic, Race-bred",
+      "console": "Parallax & Radar",
+      "accent": "#e63946",
+      "headline": {
+        "peak_power": "30 kW",
+        "peak_power_hp": "40.2 hp",
+        "max_speed": "155 km/h",
+        "accel_0_60": "2.8 s",
+        "range_idc": "323 km",
+        "kerb_weight": "207 kg",
+        "ground_clearance": "160 mm",
+        "rear_wheel_torque": null
+      }
+    },
+    {
+      "id": "superstreet",
+      "name": "F77 SUPERSTREET",
+      "tagline": "Street-oriented sport",
+      "series": "F series - Jet Inspired",
+      "stance": "Dynamic, Street-oriented",
+      "console": "Parallax & Radar",
+      "accent": "#f4a261",
+      "headline": {
+        "peak_power": "30 kW",
+        "peak_power_hp": "40.2 hp",
+        "max_speed": "155 km/h",
+        "accel_0_60": "2.8 s",
+        "range_idc": "323 km",
+        "kerb_weight": "207 kg",
+        "ground_clearance": "160 mm",
+        "rear_wheel_torque": null
+      }
+    },
+    {
+      "id": "x47",
+      "name": "X-47",
+      "tagline": "Versatile adventure / multi-capability",
+      "series": "X series - Versatile / Multi-Capability",
+      "stance": "Upright and ready to fight",
+      "console": "Vector",
+      "accent": "#2a9d8f",
+      "headline": {
+        "peak_power": "30 kW",
+        "peak_power_hp": "40.2 hp",
+        "max_speed": "145 km/h",
+        "accel_0_60": "2.7 s",
+        "range_idc": "323 km",
+        "kerb_weight": "208 kg",
+        "ground_clearance": "200 mm",
+        "rear_wheel_torque": "610 Nm"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "name": "Performance",
+      "priority": "primary",
+      "rows": [
+        { "label": "Peak Power",         "mach2": {"base": "27 kW (36.2 hp)", "top": "30 kW (40.2 hp)"}, "superstreet": {"base": "27 kW (36.2 hp)", "top": "30 kW (40.2 hp)"}, "x47": {"base": "27 kW (36.2 hp)", "top": "30 kW (40.2 hp)"} },
+        { "label": "Peak Torque (motor)", "mach2": {"base": "90 Nm", "top": "100 Nm"}, "superstreet": {"base": "90 Nm", "top": "100 Nm"}, "x47": {"base": "90 Nm", "top": "100 Nm"} },
+        { "label": "Rear-wheel Torque",   "mach2": "—", "superstreet": "—", "x47": {"base": "550 Nm", "top": "610 Nm"}, "highlight": "x47" },
+        { "label": "Max Speed",           "mach2": "155 km/h", "superstreet": "155 km/h", "x47": "145 km/h", "highlight": "mach2" },
+        { "label": "0-60 km/h",           "mach2": {"base": "2.9 s", "top": "2.8 s"}, "superstreet": {"base": "2.9 s", "top": "2.8 s"}, "x47": {"base": "2.8 s", "top": "2.7 s"}, "highlight": "x47" },
+        { "label": "0-100 km/h",          "mach2": {"base": "7.8 s", "top": "7.7 s"}, "superstreet": {"base": "7.8 s", "top": "7.7 s"}, "x47": {"base": "8.2 s", "top": "8.1 s"} },
+        { "label": "Ride Modes",          "mach2": "Glide, Combat, Ballistic", "superstreet": "Glide, Combat, Ballistic", "x47": "Glide, Combat, Ballistic" },
+        { "label": "Regenerative Braking","mach2": {"base": "3 levels (10 opt.)", "top": "10 levels"}, "superstreet": {"base": "3 levels (10 opt.)", "top": "10 levels"}, "x47": {"base": "3 levels (10 opt.)", "top": "10 levels"} }
+      ]
+    },
+    {
+      "name": "Range (IDC estimates)",
+      "priority": "primary",
+      "rows": [
+        { "label": "Range IDC (est.)",     "mach2": {"base": "211 km", "top": "323 km"}, "superstreet": {"base": "211 km", "top": "323 km"}, "x47": {"base": "211 km", "top": "323 km"} },
+        { "label": "Range · Glide",        "mach2": {"base": "183 km", "top": "266 km"}, "superstreet": {"base": "183 km", "top": "266 km"}, "x47": {"base": "183 km", "top": "266 km"} },
+        { "label": "Range · Combat",       "mach2": {"base": "144 km", "top": "209 km"}, "superstreet": {"base": "144 km", "top": "209 km"}, "x47": {"base": "144 km", "top": "209 km"} },
+        { "label": "Range · Ballistic",    "mach2": {"base": "128 km", "top": "186 km"}, "superstreet": {"base": "128 km", "top": "186 km"}, "x47": {"base": "128 km", "top": "186 km"} }
+      ]
+    },
+    {
+      "name": "Battery & Charging",
+      "priority": "primary",
+      "rows": [
+        { "label": "Battery Pack",         "mach2": {"base": "SRB7 · 7.1 kWh", "top": "SRB10 · 10.3 kWh"}, "superstreet": {"base": "SRB7 · 7.1 kWh", "top": "SRB10 · 10.3 kWh"}, "x47": {"base": "SRB7 · 7.1 kWh", "top": "SRB10 · 10.3 kWh"} },
+        { "label": "DC Fast (Supernova+ 12 kW, 20-80%)", "mach2": "45 min", "superstreet": "45 min", "x47": {"base": "60 min", "top": "40 min"} },
+        { "label": "Standard Charger",     "mach2": "~35 km/hr · 20-80% in 3 hr", "superstreet": "~35 km/hr · 20-80% in 3 hr", "x47": "~35 km/hr · 20-80% in 3.5 hr" },
+        { "label": "Boost Charger (opt.)", "mach2": "~75 km/hr · 20-80% in 1.5 hr", "superstreet": "~75 km/hr · 20-80% in 1.5 hr", "x47": "~75 km/hr · 20-80% in 1.75 hr" },
+        { "label": "Charging Port",        "mach2": "IEC 62196-6", "superstreet": "IEC 62196-6", "x47": "IEC 62196-6" }
+      ]
+    },
+    {
+      "name": "Dimensions & Weight",
+      "priority": "primary",
+      "rows": [
+        { "label": "Kerb Weight",          "mach2": {"base": "197 kg", "top": "207 kg"}, "superstreet": {"base": "197 kg", "top": "207 kg"}, "x47": {"base": "197 kg", "top": "208 kg"} },
+        { "label": "Wheelbase",            "mach2": "1340 mm", "superstreet": "1340 mm", "x47": "1385 mm" },
+        { "label": "Seat Height",          "mach2": "800 mm", "superstreet": "800 mm", "x47": "820 mm (805 mm saddled)" },
+        { "label": "Ground Clearance",     "mach2": "160 mm", "superstreet": "160 mm", "x47": "200 mm", "highlight": "x47" },
+        { "label": "L × W × H",            "mach2": "—", "superstreet": "—", "x47": "2060 × 867 × 1220 mm" }
+      ]
+    },
+    {
+      "name": "Mechanical",
+      "priority": "secondary",
+      "rows": [
+        { "label": "Motor",               "mach2": "Permanent Magnet AC", "superstreet": "Permanent Magnet AC", "x47": "Permanent Magnet AC" },
+        { "label": "Throttle",            "mach2": "Ride-by-wire", "superstreet": "Ride-by-wire", "x47": "Ride-by-wire" },
+        { "label": "Frame",               "mach2": "Steel Trellis + Aluminium Bulkhead", "superstreet": "Steel Trellis + Aluminium Bulkhead", "x47": "Steel Trellis + Aluminium Bulkhead" },
+        { "label": "Front Suspension",    "mach2": "USD telescopic 41 mm, preload adj.", "superstreet": "USD telescopic 41 mm, preload adj.", "x47": "USD telescopic 41 mm, preload adj." },
+        { "label": "Rear Suspension",     "mach2": "Monoshock, preload adj.", "superstreet": "Monoshock, preload adj.", "x47": "Monoshock, preload adj." },
+        { "label": "Brakes",              "mach2": "Hydraulic disc, dual-channel BOSCH ABS", "superstreet": "Hydraulic disc, dual-channel BOSCH ABS", "x47": "Hydraulic disc, dual-channel BOSCH ABS" },
+        { "label": "Calipers",            "mach2": "Front: 4-radial piston · Rear: single-piston floating", "superstreet": "Front: 4-radial piston · Rear: single-piston floating", "x47": "Front: 4-radial piston · Rear: single-piston floating" },
+        { "label": "Rotors",              "mach2": "Front 320 mm · Rear 230 mm", "superstreet": "Front 320 mm · Rear 230 mm", "x47": "Front 320 mm · Rear 230 mm" },
+        { "label": "Tyres",               "mach2": "110/70 R17 · 150/60 R17", "superstreet": "110/70 R17 · 150/60 R17", "x47": "MRF Revz-AT 03 · 110/70 R17 · 150/60 R17", "highlight": "x47" }
+      ]
+    },
+    {
+      "name": "Safety & Rider Aids",
+      "priority": "secondary",
+      "rows": [
+        { "label": "UV Hypersense Radar (77 GHz)", "mach2": "—", "superstreet": "—", "x47": "Rear collision warning, Lane-change assist, Overtake alert, Blindspot detection (not on base)", "highlight": "x47" },
+        { "label": "Traction Control",    "mach2": "Optional", "superstreet": "Optional", "x47": {"base": "1 level (4 on Original+)", "top": "4 levels"} },
+        { "label": "Hill Hold",           "mach2": "Included", "superstreet": "Included", "x47": "Included" },
+        { "label": "Dynamic Stability Control", "mach2": "Included", "superstreet": "Included", "x47": "Included" },
+        { "label": "ABS",                 "mach2": "Mono & Dual channel", "superstreet": "Mono & Dual channel", "x47": "Mono & Dual channel" },
+        { "label": "Lighting",            "mach2": "Auto-dimming LED headlight, Ultra-V position lamp, dual LED tail + central brake, front/rear LED hazards", "superstreet": "Auto-dimming LED headlight, Ultra-V position lamp, dual LED tail + central brake, front/rear LED hazards", "x47": "Auto-dimming LED headlight, Ultra-V position lamp, dual LED tail + central brake, front/rear LED hazards" },
+        { "label": "Sidestand Sensor",    "mach2": "Included", "superstreet": "Included", "x47": "Included" },
+        { "label": "TPMS",                "mach2": "Optional", "superstreet": "Optional", "x47": "Optional" }
+      ]
+    },
+    {
+      "name": "Smart Tech & Connectivity",
+      "priority": "secondary",
+      "rows": [
+        { "label": "Control Center",      "mach2": "5\" TFT, tactile switch console (L+R)", "superstreet": "5\" TFT, tactile switch console (L+R)", "x47": "5\" TFT, tactile switch console (L+R)" },
+        { "label": "Operating System",    "mach2": "UV Automotive Linux OS", "superstreet": "UV Automotive Linux OS", "x47": "UV Automotive Linux OS" },
+        { "label": "Violette A.I.",       "mach2": "Optional", "superstreet": "Optional", "x47": "Optional" },
+        { "label": "Delta Watch",         "mach2": "Optional", "superstreet": "Optional", "x47": "Optional" },
+        { "label": "Lockdown",            "mach2": "Optional", "superstreet": "Optional", "x47": "Optional" },
+        { "label": "Anti-Collision Warning", "mach2": "Optional", "superstreet": "Optional", "x47": "Optional" },
+        { "label": "Crash Alert",         "mach2": "Optional", "superstreet": "Optional", "x47": "Optional" },
+        { "label": "Daily Ride Analytics","mach2": "Optional", "superstreet": "Optional", "x47": "Optional" },
+        { "label": "Network",             "mach2": "LTE + eSIM", "superstreet": "LTE + eSIM", "x47": {"base": "Wi-Fi + BT (std)", "top": "LTE + BT (premium)"} },
+        { "label": "Wi-Fi / Bluetooth / GPS", "mach2": "802.11a/b/g/n/ac · BT 5 LE · GPS/GLONASS", "superstreet": "802.11a/b/g/n/ac · BT 5 LE · GPS/GLONASS", "x47": "802.11a/b/g/n/ac · BT 5 LE · GPS/GLONASS" }
+      ]
+    },
+    {
+      "name": "Utility",
+      "priority": "secondary",
+      "rows": [
+        { "label": "Charge Limit",        "mach2": "Included", "superstreet": "Included", "x47": "Included" },
+        { "label": "Park Assist",         "mach2": "Included", "superstreet": "Included", "x47": "Included" },
+        { "label": "Find My (bike)",      "mach2": "Included", "superstreet": "Included", "x47": "Included (Original+)" },
+        { "label": "Deep Sleep",          "mach2": "Included", "superstreet": "Included", "x47": "Included" },
+        { "label": "Type-C Charging",     "mach2": "—", "superstreet": "—", "x47": "Included" }
+      ]
+    },
+    {
+      "name": "Warranty",
+      "priority": "secondary",
+      "rows": [
+        { "label": "Vehicle Warranty",    "mach2": "3 yr / 30,000 km", "superstreet": "3 yr / 30,000 km", "x47": "3 yr / 30,000 km" },
+        { "label": "UV Care (battery/drivetrain)", "mach2": "3 yr / 60,000 km incl.", "superstreet": "3 yr / 60,000 km incl.", "x47": "3 yr / 60,000 km incl." },
+        { "label": "UV Care PLUS",        "mach2": {"base": "5 yr / 1,00,000 km opt.", "top": "5 yr / 1,00,000 km incl."}, "superstreet": {"base": "5 yr / 1,00,000 km opt.", "top": "5 yr / 1,00,000 km incl."}, "x47": {"base": "5 yr / 1,00,000 km opt.", "top": "5 yr / 1,00,000 km incl."} },
+        { "label": "UV Care Max",         "mach2": {"base": "N/A", "top": "8 yr / 8,00,000 km opt."}, "superstreet": {"base": "N/A", "top": "8 yr / 8,00,000 km opt."}, "x47": {"base": "N/A", "top": "8 yr / 8,00,000 km opt."} }
+      ]
+    },
+    {
+      "name": "Design & Colours",
+      "priority": "secondary",
+      "rows": [
+        { "label": "Design Series",       "mach2": "F series - Jet Inspired", "superstreet": "F series - Jet Inspired", "x47": "X series - Multi-Capability" },
+        { "label": "Stance",              "mach2": "Dynamic, Race-bred", "superstreet": "Dynamic, Street-oriented", "x47": "Upright and ready to fight" },
+        { "label": "Console Theme",       "mach2": "Parallax & Radar", "superstreet": "Parallax & Radar", "x47": "Vector" },
+        { "label": "Colours",             "mach2": "Laser (Turbo Red), Shadow (Stealth Grey), Airstrike (Supersonic Silver), Stellar White, Afterburner Yellow, Cosmic Black", "superstreet": "Laser (Turbo Red), Shadow (Cosmic Black), Airstrike (Stellar White), Afterburner Yellow", "x47": "Laser (Turbo Red), Shadow (Cosmic Black), Airstrike (Stellar White) + exclusive Sandstorm (Desert Wing)" }
+      ]
+    }
+  ]
+}

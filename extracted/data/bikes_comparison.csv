@@ -1,0 +1,63 @@
+Category,Priority,Spec,F77 MACH 2 (base / top),F77 SUPERSTREET (base / top),X-47 (base / top)
+Performance,primary,Peak Power,27 kW (36.2 hp) / 30 kW (40.2 hp),27 kW (36.2 hp) / 30 kW (40.2 hp),27 kW (36.2 hp) / 30 kW (40.2 hp)
+Performance,primary,Peak Torque (motor),90 Nm / 100 Nm,90 Nm / 100 Nm,90 Nm / 100 Nm
+Performance,primary,Rear-wheel Torque,—,—,550 Nm / 610 Nm
+Performance,primary,Max Speed,155 km/h,155 km/h,145 km/h
+Performance,primary,0-60 km/h,2.9 s / 2.8 s,2.9 s / 2.8 s,2.8 s / 2.7 s
+Performance,primary,0-100 km/h,7.8 s / 7.7 s,7.8 s / 7.7 s,8.2 s / 8.1 s
+Performance,primary,Ride Modes,"Glide, Combat, Ballistic","Glide, Combat, Ballistic","Glide, Combat, Ballistic"
+Performance,primary,Regenerative Braking,3 levels (10 opt.) / 10 levels,3 levels (10 opt.) / 10 levels,3 levels (10 opt.) / 10 levels
+Range (IDC estimates),primary,Range IDC (est.),211 km / 323 km,211 km / 323 km,211 km / 323 km
+Range (IDC estimates),primary,Range · Glide,183 km / 266 km,183 km / 266 km,183 km / 266 km
+Range (IDC estimates),primary,Range · Combat,144 km / 209 km,144 km / 209 km,144 km / 209 km
+Range (IDC estimates),primary,Range · Ballistic,128 km / 186 km,128 km / 186 km,128 km / 186 km
+Battery & Charging,primary,Battery Pack,SRB7 · 7.1 kWh / SRB10 · 10.3 kWh,SRB7 · 7.1 kWh / SRB10 · 10.3 kWh,SRB7 · 7.1 kWh / SRB10 · 10.3 kWh
+Battery & Charging,primary,"DC Fast (Supernova+ 12 kW, 20-80%)",45 min,45 min,60 min / 40 min
+Battery & Charging,primary,Standard Charger,~35 km/hr · 20-80% in 3 hr,~35 km/hr · 20-80% in 3 hr,~35 km/hr · 20-80% in 3.5 hr
+Battery & Charging,primary,Boost Charger (opt.),~75 km/hr · 20-80% in 1.5 hr,~75 km/hr · 20-80% in 1.5 hr,~75 km/hr · 20-80% in 1.75 hr
+Battery & Charging,primary,Charging Port,IEC 62196-6,IEC 62196-6,IEC 62196-6
+Dimensions & Weight,primary,Kerb Weight,197 kg / 207 kg,197 kg / 207 kg,197 kg / 208 kg
+Dimensions & Weight,primary,Wheelbase,1340 mm,1340 mm,1385 mm
+Dimensions & Weight,primary,Seat Height,800 mm,800 mm,820 mm (805 mm saddled)
+Dimensions & Weight,primary,Ground Clearance,160 mm,160 mm,200 mm
+Dimensions & Weight,primary,L × W × H,—,—,2060 × 867 × 1220 mm
+Mechanical,secondary,Motor,Permanent Magnet AC,Permanent Magnet AC,Permanent Magnet AC
+Mechanical,secondary,Throttle,Ride-by-wire,Ride-by-wire,Ride-by-wire
+Mechanical,secondary,Frame,Steel Trellis + Aluminium Bulkhead,Steel Trellis + Aluminium Bulkhead,Steel Trellis + Aluminium Bulkhead
+Mechanical,secondary,Front Suspension,"USD telescopic 41 mm, preload adj.","USD telescopic 41 mm, preload adj.","USD telescopic 41 mm, preload adj."
+Mechanical,secondary,Rear Suspension,"Monoshock, preload adj.","Monoshock, preload adj.","Monoshock, preload adj."
+Mechanical,secondary,Brakes,"Hydraulic disc, dual-channel BOSCH ABS","Hydraulic disc, dual-channel BOSCH ABS","Hydraulic disc, dual-channel BOSCH ABS"
+Mechanical,secondary,Calipers,Front: 4-radial piston · Rear: single-piston floating,Front: 4-radial piston · Rear: single-piston floating,Front: 4-radial piston · Rear: single-piston floating
+Mechanical,secondary,Rotors,Front 320 mm · Rear 230 mm,Front 320 mm · Rear 230 mm,Front 320 mm · Rear 230 mm
+Mechanical,secondary,Tyres,110/70 R17 · 150/60 R17,110/70 R17 · 150/60 R17,MRF Revz-AT 03 · 110/70 R17 · 150/60 R17
+Safety & Rider Aids,secondary,UV Hypersense Radar (77 GHz),—,—,"Rear collision warning, Lane-change assist, Overtake alert, Blindspot detection (not on base)"
+Safety & Rider Aids,secondary,Traction Control,Optional,Optional,1 level (4 on Original+) / 4 levels
+Safety & Rider Aids,secondary,Hill Hold,Included,Included,Included
+Safety & Rider Aids,secondary,Dynamic Stability Control,Included,Included,Included
+Safety & Rider Aids,secondary,ABS,Mono & Dual channel,Mono & Dual channel,Mono & Dual channel
+Safety & Rider Aids,secondary,Lighting,"Auto-dimming LED headlight, Ultra-V position lamp, dual LED tail + central brake, front/rear LED hazards","Auto-dimming LED headlight, Ultra-V position lamp, dual LED tail + central brake, front/rear LED hazards","Auto-dimming LED headlight, Ultra-V position lamp, dual LED tail + central brake, front/rear LED hazards"
+Safety & Rider Aids,secondary,Sidestand Sensor,Included,Included,Included
+Safety & Rider Aids,secondary,TPMS,Optional,Optional,Optional
+Smart Tech & Connectivity,secondary,Control Center,"5"" TFT, tactile switch console (L+R)","5"" TFT, tactile switch console (L+R)","5"" TFT, tactile switch console (L+R)"
+Smart Tech & Connectivity,secondary,Operating System,UV Automotive Linux OS,UV Automotive Linux OS,UV Automotive Linux OS
+Smart Tech & Connectivity,secondary,Violette A.I.,Optional,Optional,Optional
+Smart Tech & Connectivity,secondary,Delta Watch,Optional,Optional,Optional
+Smart Tech & Connectivity,secondary,Lockdown,Optional,Optional,Optional
+Smart Tech & Connectivity,secondary,Anti-Collision Warning,Optional,Optional,Optional
+Smart Tech & Connectivity,secondary,Crash Alert,Optional,Optional,Optional
+Smart Tech & Connectivity,secondary,Daily Ride Analytics,Optional,Optional,Optional
+Smart Tech & Connectivity,secondary,Network,LTE + eSIM,LTE + eSIM,Wi-Fi + BT (std) / LTE + BT (premium)
+Smart Tech & Connectivity,secondary,Wi-Fi / Bluetooth / GPS,802.11a/b/g/n/ac · BT 5 LE · GPS/GLONASS,802.11a/b/g/n/ac · BT 5 LE · GPS/GLONASS,802.11a/b/g/n/ac · BT 5 LE · GPS/GLONASS
+Utility,secondary,Charge Limit,Included,Included,Included
+Utility,secondary,Park Assist,Included,Included,Included
+Utility,secondary,Find My (bike),Included,Included,Included (Original+)
+Utility,secondary,Deep Sleep,Included,Included,Included
+Utility,secondary,Type-C Charging,—,—,Included
+Warranty,secondary,Vehicle Warranty,"3 yr / 30,000 km","3 yr / 30,000 km","3 yr / 30,000 km"
+Warranty,secondary,UV Care (battery/drivetrain),"3 yr / 60,000 km incl.","3 yr / 60,000 km incl.","3 yr / 60,000 km incl."
+Warranty,secondary,UV Care PLUS,"5 yr / 1,00,000 km opt. / 5 yr / 1,00,000 km incl.","5 yr / 1,00,000 km opt. / 5 yr / 1,00,000 km incl.","5 yr / 1,00,000 km opt. / 5 yr / 1,00,000 km incl."
+Warranty,secondary,UV Care Max,"N/A / 8 yr / 8,00,000 km opt.","N/A / 8 yr / 8,00,000 km opt.","N/A / 8 yr / 8,00,000 km opt."
+Design & Colours,secondary,Design Series,F series - Jet Inspired,F series - Jet Inspired,X series - Multi-Capability
+Design & Colours,secondary,Stance,"Dynamic, Race-bred","Dynamic, Street-oriented",Upright and ready to fight
+Design & Colours,secondary,Console Theme,Parallax & Radar,Parallax & Radar,Vector
+Design & Colours,secondary,Colours,"Laser (Turbo Red), Shadow (Stealth Grey), Airstrike (Supersonic Silver), Stellar White, Afterburner Yellow, Cosmic Black","Laser (Turbo Red), Shadow (Cosmic Black), Airstrike (Stellar White), Afterburner Yellow","Laser (Turbo Red), Shadow (Cosmic Black), Airstrike (Stellar White) + exclusive Sandstorm (Desert Wing)"
